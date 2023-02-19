@@ -1,1 +1,1 @@
-# chess-pieces-
+# chess-pieces

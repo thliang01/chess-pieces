@@ -1,4 +1,5 @@
 # chess-pieces
 
 * [x] Before You Start
-* [ ] Train On Custom Data
+* [x] Train On Custom Data
+* [ ] Model Selection
